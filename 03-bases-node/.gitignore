@@ -3,5 +3,5 @@
  node_modules/
  
  salida/*.txt
- ../01-hola-mundo
- ../02-fundamentos
+ 01-hola-mundo
+ 02-fundamentos
