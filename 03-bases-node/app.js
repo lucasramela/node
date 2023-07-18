@@ -3,7 +3,7 @@
     // 5 x 2 = 10
     // ...
     // 5 x 10 = 50
-    // asd
+    
 
     const { crearArchivo } = require('./helpers/multiplicar');
     const { argv } = require('./config/yargs');
